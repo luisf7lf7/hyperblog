@@ -5,3 +5,5 @@ Trabajo en el lado de las telecomunicaciones
 y estoy estudiando programacion para ser full stack
 
 mañana nos enfocaremos en el futuro que se está construyendo
+
+continuamos aprendiendo git-hub
